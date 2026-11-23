@@ -1,0 +1,5 @@
+I am learning GitHub.
+
+I can create files directly using the GitHub website.
+
+I am preparing for a Junior DevOps Engineer role.
