@@ -1,5 +1,3 @@
-I am learning GitHub.
+I have learned how to create files on GitHub.
 
-I can create files directly using the GitHub website.
-
-I am preparing for a Junior DevOps Engineer role.
+Now I am learning how to edit existing files.
